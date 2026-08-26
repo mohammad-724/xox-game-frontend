@@ -1,4 +1,4 @@
-live link: 
+live link: https://mohammad-724.github.io/xox-game-frontend/
 
 # XOX Game – Human vs Smart Bot
 
